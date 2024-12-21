@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TIME PIECE</title>
+    <style>
+        body {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', Verdana;
+            text-align: center;
+            margin: 20px;
+            background-color: hsl(0, 92%, 23%); 
+        }
+        h1 {
+            color: #d7ad4b;
+        }
+        h2 {
+            color: #e0d6d6;
+        }
+        p {
+            font-size: 24px;
+            color: #000000;
+        }
+        a {
+            text-decoration: none;
+            font-size: 17px;
+            color: #13984f;
+        }
+        a:hover {
+            color: #0056a4;
+        }
+        hr {
+            border: 0;
+            height: 1px;
+            background: #391111;
+            margin: 40px 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 10px 0;
+            width: 400px; /* Resize width to 300px */
+            height: 500px; /* Resize height to 300px */
+            object-fit: cover; /* Ensures images are scaled proportionally */
+        }
+    </style>
+</head>
+<body>
+    <h1> THE DREAM OFFERS</h1>
+    <hr>
+    <p>THE GREAT CHRISTMAS SALE IS BACK !!!</p>
+    <p>DON'T MISS THIS EXCLUSIVE WATCH DEALS✨✨✨</p>
+    <p>Mother of Pearl</p>
+
+    <h1>THE BREDA JANE</h1>
+    <img src="c:\Users\User\OneDrive\Pictures\Desktop\classic.webp." alt="The Classic Jane">
+    <br>
+    <a href="https://www.breda.com/products/breda-jane-1741t-gold-metal-bracelet-watch?srsltid=AfmBOoqVhtegTK57rTQs-L-NPwDrssRC_laEuEmuMoAAH3WHay3w4RvW" target="_blank">
+        Tap here to reveal your Unique Offer!!!
+    </a>
+    <hr>
+    <p>The Relic is more than just a timekeeper—it's a piece of art that adorns your wrist.</p>
+
+
+
+    <h1>RELIC</h1>
+    <img src="c:\Users\User\OneDrive\Pictures\Desktop\breda-relic.webp " alt="Relic">
+    <br>
+    <a href="https://www.breda.com/products/breda-relic-1751a-gold-metal-bracelet-watch" target="_blank">
+        Tap here to reveal your Unique Offer!!!
+    </a>
+
+    <hr>
+    <p>A woven mesh bracelet that fastens with a quick release clasp.</p>
+    <h1>REVEL(TETHERED)</h1>
+    <img src="c:\Users\User\OneDrive\Pictures\Desktop\REVEL(Tethered).webp " alt="REVEL(Tethered)">
+    <br>
+    <a href="https://www.breda.com/products/breda-revel-tethered-1746f-gold-metal-mesh-watch" target="_blank">
+        Tap here to reveal your Unique Offer!!!
+    </a>
+
+   
+    <hr>
+    <h1>BREDA</h1>
+</body>
+</html>
